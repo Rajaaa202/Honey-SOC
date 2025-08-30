@@ -79,3 +79,7 @@ It is worth noting that if the resources within the network were heavily utilize
 Incident 1- Brute Force Attack in Azure AD
 ![Brute Force Attack in Azure AD](images/BruteForceAzureAD.png)<br>
 ![Incident 1 Image](images/Incident1.png)<br>
+
+Incident 2-Brute Force Attack in Linux Syslog
+![Brute force in Linux Syslog](images/BruteForceLinux.png)<br>
+![Incident 2 Image](images/Incident2.png)<br>
