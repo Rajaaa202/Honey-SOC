@@ -76,4 +76,6 @@ It is worth noting that if the resources within the network were heavily utilize
 
 ## Remediation Examples
 
-![Brute Force Attack in Azure AD](
+Incident 1- Brute Force Attack in Azure AD
+![Brute Force Attack in Azure AD](images/BruteForceAzureAD.png)<br>
+![Incident 1 Image](images/Incident1.png)<br>
